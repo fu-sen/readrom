@@ -76,7 +76,7 @@ g800 を起動して、正常に動作する事を確認してみて下さい。
 
 他機種のツールも含めています。
 
-- reade200.ihx ... PC-E200, PC-E220, PC^-G805, PC-G811, PC-G812, PC-G813, PC-G815 and PC-G830
+- reade200.ihx ... PC-E200, PC-E220, PC-G805, PC-G811, PC-G812, PC-G813, PC-G815 and PC-G830
 - readg850.ihx ... PC-G850, PC-G850S, PC-G850V and PC-G850VS
 
 copyrom との違いはプログラム 100 番地からにしている点です。
