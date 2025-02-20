@@ -12,6 +12,6 @@
 		ld   bc,0x04000
 		ldir
 		pop  af
-		out	 (0x019),a
+		out  (0x019),a
 		ei
 		ret
