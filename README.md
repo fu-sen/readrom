@@ -26,9 +26,9 @@ PC-G シリーズで RAM 8KB の機種は次のとおりです。
 - data bit    (データ長)       = 8
 - stop bit    (セトップビット) = 1
 - parity      (パリティ)       = none (なし)
-  end of line (改行コード)    = CR LF
-  end of file (EOF コード)    = 1A
-  line number (行番号)        = yes
+- end of line (改行コード)    = CR LF
+- end of file (EOF コード)    = 1A
+- line number (行番号)        = yes
 
 BASIC の RUN MODE より **MON** を入力し、機械語モニタを起動します。\
 PC-G820 では **CALL #5,&HC000** として起動できます。
