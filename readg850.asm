@@ -1,4 +1,4 @@
-; zcc +g800 --no-crt -create-app -Cz"--ihex --org=0x0100" -o readg850.hex readg850.asm
+; zcc +g800 --no-crt -create-app -Cz"--ihex --org=0x0100" -o readg850.ihx readg850.asm
 
 		org  0x0100
 
