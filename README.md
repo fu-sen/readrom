@@ -1,6 +1,6 @@
 ## シャープ ポケットコンピュータ PC-E200・G シリーズ用 ROM イメージ読み込みツール
 
-SHARP PC-G850/G815/E200エミュレータ g800\
+SHARP PC-G850/G815/E200エミュレータ g800\ - version 0
 <https://ver0.sakura.ne.jp/pc/index.html#g800>
 
 PC-E200 や PC-G850 シリーズなどの機種では\
